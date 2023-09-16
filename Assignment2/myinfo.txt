@@ -1,5 +1,9 @@
 Hannah Kurian
 11004
+<<<<<<< HEAD
 HMKurian
+=======
+6314555555
+>>>>>>> f6b2818 (Edited myinfo file for the third time)
 
 
